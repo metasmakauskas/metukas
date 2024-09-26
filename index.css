@@ -1,0 +1,9 @@
+/* Autorių teisės (c) 2024-2025 Metas Makauskas. Visos teisės saugomos. */
+
+.pdf,html,body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
